@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "img": "https://www.csn-solidaris.be/wp-content/uploads/2020/08/maquette_fiches_19_ophtalmo.jpg",
+    "name": "Ophtalmologue",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1110
+  },
+  {
+    "id": 2,
+    "img": "https://www.thoughtco.com/thmb/T9WYVt45ZMWJ8tVHEsl3uLYXtN4=/395x0/filters:no_upscale():max_bytes(150000):strip_icc()/doctor-showing-x-ray-to-patient-539553508-8c6a7541653f4addb4d2eb4e2d442bcf.jpg",
+    "name": "Dental",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 550
+  },
+  {
+    "id": 3,
+    "img": "https://hms.harvard.edu/sites/default/files/media/850Pregnant-woman-GettyImages-1309904469.jpg",
+    "name": "Pregnancy",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 2212
+  },
+  {
+    "id": 4,
+    "img": "https://www.thoughtco.com/thmb/T9WYVt45ZMWJ8tVHEsl3uLYXtN4=/395x0/filters:no_upscale():max_bytes(150000):strip_icc()/doctor-showing-x-ray-to-patient-539553508-8c6a7541653f4addb4d2eb4e2d442bcf.jpg",
+    "name": "Dental",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 550
+  },
+  {
+    "id": 5,
+    "img": "https://thumbs.dreamstime.com/b/neuronal-network-electrical-activity-neuron-cells-d-rendering-illustration-neuroscience-neurology-nervous-system-177768411.jpg",
+    "name": "Neurology",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 220
+  },
+  {
+    "id": 6,
+    "img": "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2019/03/cardiovascular-1000x778.jpg",
+    "name": "Cardiovascular",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1120
+  },
+  {
+    "id": 7,
+    "img": "https://www.csn-solidaris.be/wp-content/uploads/2020/08/maquette_fiches_19_ophtalmo.jpg",
+    "name": "Ophtalmologue",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1212
+  },
+  {
+    "id": 8,
+    "img": "https://www.srisriholistichospitals.com/wp-content/uploads/2020/12/Orthopedics-1.png",
+    "name": "Orthopedics",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1212
+  }
+]

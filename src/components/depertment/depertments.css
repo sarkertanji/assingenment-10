@@ -1,0 +1,58 @@
+.depertment-container {
+  text-align: center;
+  margin: 5%;
+}
+.sectors {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 30px;
+  column-gap: 30px;
+  padding: 5%;
+  margin-top: 15px;
+}
+.sector {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: justify;
+  padding: 30px;
+  border-radius: 5px;
+  transition: 0.8s;
+}
+.sector:hover {
+  background-color: rgb(236, 234, 234);
+  transform: translateY(-15px);
+  border-bottom: 4px solid rgb(0, 0, 117);
+  box-shadow: 2.3px 2.3px 1.9px rgba(0, 0, 0, 0.015),
+    5.4px 5.4px 4.3px rgba(0, 0, 0, 0.025),
+    9.7px 9.7px 7.7px rgba(0, 0, 0, 0.032),
+    16.1px 16.1px 12.8px rgba(0, 0, 0, 0.037),
+    26.5px 26.5px 21.2px rgba(0, 0, 0, 0.043),
+    46.2px 46.2px 37px rgba(0, 0, 0, 0.051),
+    100px 100px 80px rgba(0, 0, 0, 0.07);
+}
+.sector img {
+  width: 150px;
+  height: 150px;
+}
+/* media quary  */
+@media only screen and (min-width: 481px) and (max-width: 800px) {
+  .sectors {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 30px;
+    column-gap: 30px;
+    padding: 5%;
+    margin-top: 15px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .sectors {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+  }
+}
